@@ -1,0 +1,4 @@
+The exact wording of questions used in the interviews
+The full definitions of variables used
+The full range of answers allowed for questions
+Whether the answer was from an interview or determined by the interviewer
